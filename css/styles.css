@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body, html {
+    height: 100%;
+  }
+body{
+    font-size: 32;
+    line-height: 17px;
+    font-family: 'Prociono';
+}
+ .back1 {
+    background-image: url("../img/coffee-cup-white-rose-flowers-white-table-background-to-breakfast-mothers-day-womens-day-top-view-copy-space-86439905.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.logo img {
+    position: absolute;
+    top: 5%;
+    left: 27%;
+    width: 449px;
+    height: 371px;
+}
+
+.saloon {
+    position: absolute;
+    width: 286px;
+    height: 46px;
+    left: 536px;
+    top: 313px;
+    
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 39px;
+    
+    color: #000000;
+}
+
+.adress{
+position: absolute;
+width: 740px;
+height: 135px;
+left: 116px;
+top: 430px;
+
+font-family: 'Prociono';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+
+color: #000000;
+}
+
+.btn{
+    display: run-in;
+    text-align: center;
+    text-decoration: none;
+    position: relative;
+    width: 340px;
+    height: 50px;
+    left: 900px;
+    top: 450px;
+
+    padding: 10px 25px;
+    font-size: 50px;
+    vertical-align: top;
+
+    border: none;
+    border-radius: 50px;
+    color: #222;
+}
+.btn::after{
+    content:"";
+
+    position: absolute;
+    top: 40px;
+    right: 17px;
+
+    width: 19px;
+    height: 100px;
+}
+.btn-pink{
+    background-color: #EB8C8C;
+}
+
+.back2 {
+    background-image: url("../img/office-desk-table-cup-coffee-pink-peony-flowers-golden-pen-blank-paper-clipboard-white-wooden-background-break-ideas-123280800.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
